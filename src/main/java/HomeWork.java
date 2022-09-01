@@ -4,7 +4,7 @@ public class HomeWork {
         //java output
         System.out.println("How we doing");
         System.out.println("I am practicing java");
-        System.out.println(4 + 3);
+        System.out.println(10 + 7);
         // system.out.println helps us to out put values and to print text
         // Java variables
         String name = "Aqil";
@@ -38,6 +38,31 @@ public class HomeWork {
         l = j = h = 50;
         System.out.println(l + g + h);
         // Data types
+        short myMoney = 10000;
+        System.out.println(myMoney);
+        long myNombe = 300000000;
+        System.out.println(myNombe);
+        float myNom = 7.77f;
+        System.out.println(myNom);
+        double myNumbre= 21.21d;
+        System.out.println(myNumbre);
+        float p1 = 35e3f;
+        double g1 = 12E4d;
+        System.out.println(p1);
+        System.out.println(g1);
+        //Boolean
+        boolean soccerIsAmazing = true;
+        boolean javaIsNotFun = false;
+        System.out.println(soccerIsAmazing);
+        System.out.println(javaIsNotFun);
+        // characters
+        char myIntial = 'A';
+        System.out.println(myIntial);
+        String dreamCars = "Mercedes";
+        System.out.println(dreamCars);
+        
+
+
 
 
     }
